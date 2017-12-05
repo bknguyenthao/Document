@@ -27,5 +27,6 @@ shopee ban:
 0983312123
 0984225046
 
-pass
-ToTo0983312123
+internetbanking
+thao: 11300116A43
+lan: 13563001A24

@@ -35,8 +35,8 @@ lan: 13563001A24
 thuynguyen616@yahoo.com : Abcd1234: 0977913514: ok: t
 nguyenhan878@yahoo.com : khongbiet: 01688087119:ok: l
 
-hannguyen556@yahoo.com : ToTo0983312123: 01632829534: ok
-thuocn@yahoo.com : 312123: 0915683199: ok
+hannguyen556@yahoo.com : ToTo0983312123: 01632829534: ok: t
+thuocn@yahoo.com : 312123: 0915683199: ok: l
 
 dongnguyen68@yahoo.com: 123456789: 0906373587: ok
 nguyentrang899@yahoo.com: 123456789: 0984748268: ok

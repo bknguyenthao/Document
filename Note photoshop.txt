@@ -1,0 +1,25 @@
+﻿- Zoom: 
+Ctr +, Ctr -
+Z => Click chuột kéo qua trái, phải
+Ấn giữ Ctr + Space + Click chuột kéo qua trái, phải
+
+- Kéo để xem hình khi hình đã Zoom
+H => Click chuột kéo  v
+Ấn giữ H + Click chuột kéo
+
+- Đưa hình về chế độ hiển thị Fit screen: Ctr + 0
+- Đưa hình về chế độ hiển thị 100%: Ctr + 1 
+
+- Thay đổi kích thước vùng làm việc: 
+Tab
+Shift + Tab
+F: 1 lần, 2 lần, 3 lần
+
+- Đưa màn hình làm việc về dạng các tab image: Window -> Arrange -> Consolidate all to tabs
+- Copy file ảnh sang ảnh khác
+Kéo và move chuột
+
+
+Bài 20: Pen Tool
+P
+  
